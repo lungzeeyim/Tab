@@ -1,0 +1,91 @@
+#+Title: 心 做 し kokoronashi
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/home/avaloncs/emacs-org.css" />
+
+#+BEGIN_SRC
+
+Bm           g      D           A
+Nee mo shi mo su be de na ge su dela ledala             ねぇ、もしも全すべて投なげ捨すてられたら
+Bm       g     D           A
+Wa la tte I ki lu ko do ga rakuni na ru no              笑わらって生いきることが楽らくになるの？
+Bm    F#m7        Gmaj7       Asus4
+Ma da mu ne ga Ida kuna ru gara                        また胸むねが痛いたくなるから
+             A#dim                                                    もう何なにも言いわないでよ
+   Mou       na ni mo    
+Bm      Gmaj7   D  Dsus4
+I wa na I de yo
+
+Bm            g      D           A
+Nee  mo shi mo su be de wa su re rare danara   ねぇ、もしも全すべて忘わすれられたなら
+Bm          g      D           A#dim
+Na ga naI de I ki l u ko do mo rakuni na ru no  泣なかないで生いきることも楽らくになるの？
+Bm     F#m7         Gmaj7         Ausu4
+De mo so en na godo deki nai ga ra            でもそんな事出来ことできないから
+             
+Mou na ni mo 
+Bm       Gmaj7   d  Dsus4
+mi se na I de yo                  もう何なにも見みせないでよ
+
+A     G        A            Bm      F#m
+Ki mi ni do re da ke chi ka zu I te mo   君きみにどれだけ近ちかづいても
+         G         Aw     
+Bo ku no xin zou wa hi to 
+
+A
+zu da ge     僕ぼくの心臓しんぞうは一ひとつだけ
+
+
+           G         A             Bm              D
+Hi do I yo, hi do I yo,  mou Is-so boku no kalada o  酷ひどいよ　酷ひどいよ、もういっそ僕ぼくの体からだを
+         G          F#7          Bm          A
+Ko-washi de hikisaide  zuki nayo o-nishiteyo   壊こわして　引びき裂さいて　好すきなようにしてよ
+     G        A        Bm          D
+Sakende mogaide mabuda o halaxide mo   叫さけんで　藻掻（もが）いて　瞼（まぶた）を腫はらしても  
+          G         F#7         Bm
+Ma-dakimiwa bokunokoto dakixime teha nasanai   まだ君きみは僕ぼくの事ことを抱だきしめて離はなさない
+A
+mo I yo  もういいよ
+
+
+Nee mo shi mo boku no negai ga ka na una ra    ねぇ、もしも僕ぼくの願ねがいが叶かなうなら
+
+Ki mi to onaji mo no ga ho shi in da  君きみと同おなじものが欲ほしいんだ
+
+De mo bo ku ni wa son zai shi nai ka ra   でも僕ぼくには存在そんざいしないから
+
+Ja se me te ko ko ni gi de yo    じゃあせめて此処ここに来きてよ
+
+
+Ki mi ni do re da ke a i sa re te mo   君きみにどれだけ愛あいされても
+
+Bo ku no shin zou wa hi to tsu da ke   僕ぼくの心臓しんぞうは一ひとつだけ
+
+
+Ya me te yo ya me te yo ya sa shi ku shi na I de yo  やめてよ　やめてよ、優やさしくしないでよ
+
+Do u shi te mo bo ku ni wa ri ka i ga de ki na I yo  どうしても僕ぼくには理解りかいができないよ
+
+I ta I yo I ta I yo  ko to ba de o shi e te yo  痛いたいよ　痛いたいよ、言葉ことばで教おしえてよ
+
+Ko n na no shi ra na I yo hi to ri ni shi nai de  こんなの知しらないよ　独ひとりにしないで
+
+
+Nee   mo shi mo bo ku ni ko ko ro ga a ru na ra  ねぇ、もしも僕ぼくに心こころがあるなら
+
+Do u yatte so re o mi tsu ke re ba I I no        どうやってそれを見みつければいいの？
+
+Su ko shi ha ha e n de ki mi ga I u              少すこし微笑ほほえんで君きみが言いう
+
+So re wa ne  ko ko ni a ru yo                    「それはね、ここにあるよ
+
+
+Hi do I yo hi do I yo mo u Isso bo ku no ka ra da o  酷ひどいよ　酷ひどいよ、もういっそ僕ぼくの体からだを
+
+Ko wa shi te hi ki sa I te  su ki na yo u ni shi te yo   壊こわして　引びき裂さいて　好すきなようにしてよ
+
+Sa ke n de mo ga I te ma bu ta o ha ra shi te mo   叫さけんで　藻掻（もが）いて　瞼（まぶた）を腫はらしても
+
+Ma da ki mi wa bo ku no ko to o da ki shi me te ha na sa na i  まだ君きみは僕ぼくの事ことを抱だきしめて離はなさない
+
+Mo u I I yo   もういいよ
+
+#+END_SRC
