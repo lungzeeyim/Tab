@@ -1,5 +1,8 @@
-#+Title: 心 做 し kokoronashi
+#+Title: 心做 し kokoronashi
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/home/avaloncs/emacs-org.css" />
+
+- song: http://www.xiami.com/song/bqvqxdZ3c167?spm=a1z1s.3521865.23309997.52.tSh9ca
+- Tab: https://ja.chordwiki.org/wiki/%E5%BF%83%E5%81%9A%E3%81%97
 
 #+BEGIN_SRC
 
@@ -64,7 +67,7 @@ Ja se me te ko ko ni gi de yo    じゃあせめて此処ここに来きてよ
 
 Ki mi ni do re da ke a i sa re te mo   君きみにどれだけ愛あいされても
 
-Bo ku no shin zou wa hi to tsu da ke   僕ぼくの心臓しんぞうは一ひとつだけ
+Bo ku no shin zuo wa hi to tsu da ke   僕ぼくの心臓しんぞうは一ひとつだけ
 
 
 Ya me te yo ya me te yo ya sa shi ku shi na I de yo  やめてよ　やめてよ、優やさしくしないでよ
@@ -73,7 +76,7 @@ Do u shi te mo bo ku ni wa ri ka i ga de ki na I yo  どうしても僕ぼくに
 
 I ta I yo I ta I yo  ko to ba de o shi e te yo  痛いたいよ　痛いたいよ、言葉ことばで教おしえてよ
 
-Ko n na no shi ra na I yo hi to ri ni shi nai de  こんなの知しらないよ　独ひとりにしないで
+Ko en na no shi ra na I yo hi to ri ni shi nai de  こんなの知しらないよ　独ひとりにしないで
 
 
 Hi do I yo hi do I yo mo u Isso bo ku no ka ra da o  酷ひどいよ　酷ひどいよ、もういっそ僕ぼくの体からだを
@@ -84,14 +87,14 @@ Sa ke n de mo ga I te ma bu ta o ha ra shi te mo   叫さけんで　藻掻（�
 
 Ma da ki mi wa bo ku no ko to o da ki shi me te ha na sa na i  まだ君きみは僕ぼくの事ことを抱だきしめて離はなさない
 
-Mo I I yo   もういいよ
+Mo I yo   もういいよ
 
 
 Nee mo shi mo bo ku ni ko ko ro ga a ru na ra  ねぇ、もしも僕ぼくに心こころがあるなら
 
 Do u yatte so re o mi tsu ke re ba I I no        どうやってそれを見みつければいいの？
 
-Su ko shi ha ha e n de ki mi ga I u              少すこし微笑ほほえんで君きみが言いう
+Su ko shi hoho e n de ki mi ga I u              少すこし微笑ほほえんで君きみが言いう
 
 So re wa ne  koko-ni a-ru-yo                    「それはね、ここにあるよ
 
