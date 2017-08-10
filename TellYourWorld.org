@@ -22,14 +22,14 @@ Gm    355333
 D - D/G -  D/E - D/G
 D - D/G -  D/E - D/G
 
-            D                    D/G
-ga-da-ji no-na-yi kimo jiwa su-le na-yi  yo-yi 形のない気持ち忘れないように
-       D/E      D       D/G      Asus4
-gi-ma-li gi-da le-yi-a-u-do o-ge-xi da      决まりきった レイアウトを消した
-             D                      D/G
-hu-do-ku-qi-zu san-da hu-re zu-wo-zu-ga ma-e-de  ふと口ずさんだ　フレーズをつかまえて
-           D/E   D           D/G          Asus4
-mu ne-ni hi-me-da go-doba no-se so-la ni-do gi-ha-na-zu-no  胸に秘めた言叶乗せ 空に解き放つの
+               D                         D/G
+ga-da-ji no-na-yi kimo jiwa su-le na-yi  yo-yi               形のない気持ち忘れないように
+         D/E      D/F#       D/G    Asus4
+gi-ma-li gi-da le-yi-a-u-do o-ge-xi da                       决まりきった レイアウトを消した
+             D                          D/G
+hu-do-ku-qi-zu san-da hu-le zu-wo-zu-ga ma-e-de              ふと口ずさんだ　フレーズをつかまえて
+         D/E      D             D/G                     Asus4
+mu ne-ni hi-me-da go-doba no-se so-la ni-do gi-ha-na-zu-no   胸に秘めた言叶乗せ 空に解き放つの
              D/G
 kimi ni tsuta e taikotoga   君に伝えたいことが
              Bm7
