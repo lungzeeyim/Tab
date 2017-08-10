@@ -23,14 +23,13 @@ D - D/G -  D/E - D/G
 D - D/G -  D/E - D/G
 
             D                    D/G
-gadachi nona i kimo chiwa sure na-i  yoi 形のない気持ち忘れないように
-
+ga-da-ji no-na-yi kimo jiwa su-le na-yi  yo-yi 形のない気持ち忘れないように
        D/E      D       D/G      Asus4
-kimari kida le-i-a udo okeshi da      决まりきった レイアウトを消した
+gi-ma-li gi-da le-yi-a-u-do o-ge-xi da      决まりきった レイアウトを消した
              D                      D/G
-futo kuchi zu sanda fure^zu wotsuka maete  ふと口ずさんだ　フレーズをつかまえて
+hu-do-ku-qi-zu san-da hu-re zu-wo-zu-ga ma-e-de  ふと口ずさんだ　フレーズをつかまえて
            D/E   D           D/G          Asus4
-mune ni hi me ta kotoba nose sora ni toki houttsu no  胸に秘めた言叶乗せ 空に解き放つの
+mu ne-ni hi-me-da go-doba no-se so-la ni-do gi-ha-na-zu-no  胸に秘めた言叶乗せ 空に解き放つの
              D/G
 kimi ni tsuta e taikotoga   君に伝えたいことが
              Bm7
@@ -39,66 +38,43 @@ kimi ni todo ke taikotoga   君に届けたいことが
 takusanno ten ha sen ninatte  たくさんの点は线になって
            D/G          Asus4
 tooku kana ta heto hibi ku  远く彼方へと响く
-君に伝えたい言叶
-kimi ni tsutae tai kotoba
-君に届けたい音が
-kimi ni todoke tai oto ga
-いくつもの线は円になって
-ikutsumono sen ha en ninatte
-全て繋げていく
-subete tsunage teiku
-どこにだって Ah...
-dokonidatte Ah...
-真っ白に澄んだ光は君のよう
-masshiro ni sun da hikari ha kimi no you
-かざした手の隙间を伝う声が
-kazashita teno sukima wo tsutau koe ga
-ふと动いた指先 刻むリズムに
-futo ugoi ta yubisaki kizamu rizumu ni
-ありったけの言叶乗せ空に解き放つの
-arittakeno kotoba nose sora ni toki houttsu no
-君に伝えたいことが
-kimi ni tsutae taikotoga
-君に届けたいことが
-kimi ni todoke taikotoga
-たくさんの点は线になって
-takusanno ten ha sen ninatte
-远く彼方まで打たす
-tooku kanata made uta su
-君に伝えたい言叶
-kimi ni tsutae tai kotoba
-君に届けたい音が
-kimi ni todoke tai oto ga
-いくつもの线は円になって
-ikutsumono sen ha en ninatte
-全て繋げていく
-subete tsunage teiku
-どこにだって Ah...
-dokonidatte Ah...
-奏でていた変わらない日々を疑わずに
-kanade teita kawa ranai hibi wo utagawa zuni
-朝は谁かがくれるものだろうと思っていた
-asa ha dareka gakurerumonodarouto omotte ita
-一瞬でも信じた音　景色を揺らすの音
-isshun demo shinji ta oto keshiki wo yura suno oto
-教えてよ　君だけの世界
-oshie teyo kimi dake no sekai
-君に伝えたいことが
-kimi ni tsutae taikotoga
-君に届けたいことが
-kimi ni todoke taikotoga
-たくさんの点は线になって
-takusanno ten ha sen ninatte
-远く彼方へと响く
-tooku kanata heto hibiku
-君に伝えたい言叶
-kimi ni tsutae tai kotoba
-君に届けたい音が
-kimi ni todoke tai oto ga
-いくつもの线は円になって
-ikutsumono sen ha en ninatte
-全て繋げていく
-subete tsunage teiku
-どこにだって Ah...
-dokonidatte Ah...
+
+kimi ni tsutae tai kotoba   君に伝えたい言叶
+
+kimi ni todoke tai oto ga   君に伝えたい言叶君に届けたい音が
+
+ikutsumono sen ha en ninatte   いくつもの线は円になって
+
+subete tsunage teiku         全て繋げていく
+
+dokonidatte Ah...            どこにだって Ah...
+
+G Bm7 D/E D/F# Bm7 Asus4
+--------------------------
+    G
+kanade teita kawa ranai hibi wo utagawa zuni   奏でていた変わらない日々を疑わずに
+
+asa ha dareka gakurerumonodarouto omotte ita   朝は谁かがくれるものだろうと思っていた
+
+isshun demo shinji ta oto keshiki wo yura suno oto  一瞬でも信じた音　景色を揺らすの音
+
+oshie teyo kimi dake no sekai   教えてよ　君だけの世界
+
+kimi ni tsutae taikotoga   君に伝えたいことが
+
+kimi ni todoke taikotoga   君に届けたいことが
+
+takusanno ten ha sen ninatte  たくさんの点は线になって
+
+tooku kanata heto hibiku    远く彼方へと响く
+
+kimi ni tsutae tai kotoba  君に伝えたい言叶
+
+kimi ni todoke tai oto ga  君に届けたい音が
+
+ikutsumono sen ha en ninatte いくつもの线は円になって
+
+subete tsunage teiku   全て繋げていく
+
+dokonidatte Ah...      どこにだって Ah...
 #+END_SRC
